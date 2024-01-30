@@ -17,8 +17,6 @@ if __name__ == '__main__':
     while True:
         oled.text("Hello World!", 0, 0)
 #         time.sleep(0.5)
-        oled.text("fys", 0, 8)
-#         time.sleep(0.5)
         oled.text("1", 0, 16)
 #         time.sleep(0.5)
         oled.text("2", 0, 24)
